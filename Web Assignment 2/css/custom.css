@@ -1,0 +1,44 @@
+body{
+   color:#333
+    font-family:Lora,'Times New Roman',serif;
+    font-size:18px;
+    -webkit-tap-highlight-color:#0085A1
+}
+.picture{
+   background-image: url(http://blackrockdigital.github.io/startbootstrap-clean-blog/img/post-bg.jpg);
+  background-size: cover;
+}
+.navbar-top{
+  float: left;
+ margin-left: 20px;
+ color: white;
+ font-weight: bold;
+}
+.navbar{
+  float:right;
+  color:white;
+}
+.title{
+  color:white;
+  text-align: left;
+}
+.container{
+  margin:auto;
+}
+.content{
+  margin-top: 50px;
+}
+.section-heading{
+  font-weight: bold;
+}
+p{
+  margin-top: 10px;
+  padding-bottom: 10px;
+}
+footer a{
+  color:black;
+}
+.copyright{
+  margin: auto;
+  margin-bottom: 0;
+}
